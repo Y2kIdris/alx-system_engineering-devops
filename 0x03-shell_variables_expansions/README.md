@@ -13,3 +13,4 @@ a script that creates a new local variable
  2 files changed, 3 insertions(+)
  create mode 100755 0x03-shell_variables_expansions/6-create_local_variable
 a script that creates a new global variable
+a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line

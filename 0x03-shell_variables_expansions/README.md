@@ -9,3 +9,6 @@ a script that counts the number of directories in the PATH
 a script that lists environment variables
 a script that lists all local variables and environment variables, and functions
 a script that creates a new local variable
+[master 930a1ac] a script that creates local variables
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x03-shell_variables_expansions/6-create_local_variable
